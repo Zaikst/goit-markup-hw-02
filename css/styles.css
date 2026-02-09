@@ -108,6 +108,7 @@ a {
   font-size: 36px;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  line-height: 1.2;
 }
 .team-item{
   background-color: #FFFFFF;
@@ -134,6 +135,7 @@ a {
   font-size: 36px;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  line-height: 1.2;
 }
 
 .portfolio-name{
