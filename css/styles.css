@@ -92,7 +92,7 @@ a {
     font-size: 20px;
     font-weight: 500;
     text-align: left;
-    color: #434455;
+    color: #2e2f42;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
@@ -145,7 +145,7 @@ a {
 }
 
 /* section footer */
-footer{
+.footer{
   background-color: #2E2F42;
 }
 
